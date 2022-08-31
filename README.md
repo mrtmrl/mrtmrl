@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on game development and mobile application development.
-🌱 I’m currently learning Flutter.
-📫 How to reach me: https://linktr.ee/mrtmrl
+🔭 I’m currently working on game development and mobile application development. <br />
+🌱 I’m currently learning Flutter. <br />
+📫 How to reach me: https://linktr.ee/mrtmrl <br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrtmrl&Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtmrl&Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
