@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: https://linktr.ee/mrtmrl <br/>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mert.meral) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mert-meral-1677a7172) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrtmrljk) 
 
@@ -35,5 +32,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=mrtmrl&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrtmrl&Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtmrl&Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
