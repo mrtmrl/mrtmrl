@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌐 Socials:
-https://linktr.ee/mrtmrl
+## 🌐 Socials: https://linktr.ee/mrtmrl
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrtmrl&theme=dark&hide_border=false&include_all_commits=true&count_private=true) &nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtmrl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
